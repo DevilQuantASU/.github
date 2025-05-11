@@ -8,4 +8,4 @@ We are an organization at [Arizona State University](https://www.asu.edu/). We a
 
 ### Links
 [![DevilQuant](https://img.shields.io/website?url=https%3A%2F%2Fdevilquant.com&style=for-the-badge&label=DevilQuant%20Site&color=blue)](https://devilquant.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/company/devilquant/about/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devilquant/about/)
